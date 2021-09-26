@@ -1,0 +1,24 @@
+#select1 {
+  background-image: url("../../assets/logo.jpg");
+  background-size: 100% ;
+    background-size: cover;
+    height: 650px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  min-width: 200px;
+}
+
+mat-grid-tile {
+
+  display: block;
+  /* background: rgba(67, 3, 185, 0.342); */
+}
+
+.invo {
+  width: -webkit-fill-available;
+}
